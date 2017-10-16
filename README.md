@@ -1,8 +1,8 @@
 # Trabalho Design Patterns
 
-Aluno: Guilherme de Oliveira Gonzaga
-Curso: Sistemas de Informação (UNIPAM)
-Materia: Análise e Desenvolvimento de Sistemas
+Aluno: Guilherme de Oliveira Gonzaga<br>
+Curso: Sistemas de Informação (UNIPAM)<br>
+Materia: Análise e Desenvolvimento de Sistemas<br>
 Professor: Filipe Guelber Melo
 
 ## Padrões utilizados
